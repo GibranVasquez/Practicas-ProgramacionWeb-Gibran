@@ -1,0 +1,17 @@
+h1{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 25px;
+    color: red;
+}
+
+.Drama{
+    font-family:'Times New Roman', Times, serif;
+    font-size: 20px;
+    color:black
+}
+
+.Img{
+    width: 250px;
+    height: 200px;
+    border-radius: 15px;
+}
